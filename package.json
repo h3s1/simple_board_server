@@ -4,6 +4,7 @@
   "description": "This is simple board porject serve by Node.js Express",
   "main": "app.js",
   "scripts": {
+    "start": "tsc && node dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
